@@ -1,6 +1,7 @@
 # docker-test
 ## Procedimiento
 Primero que nada tienen que tener instalado Docker Deskop en su computadora, si usan VScode el solito les da la opción de instalarlo. \
+Si no les aparece nada pueden descargarlo [aquí](https://www.docker.com/products/docker-desktop).
 Solo subi los archivos de Docker, pero es necesario un proyecto de Angular primero.\
 En la raíz deben poner los tres archivos, es decir donde está la carpeta `src` y `node_modules`.
 
