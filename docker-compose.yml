@@ -1,0 +1,9 @@
+version: "3.6"
+services:
+  tarea5-cloud:
+    build: .
+    ports:
+      - "4200:4200"
+    volumes:
+      - "/app/node_modules"
+      - ".:/app"
