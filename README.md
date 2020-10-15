@@ -4,8 +4,6 @@ Primero que nada tienen que tener instalado Docker Deskop en su computadora, si 
 Solo subi los archivos de Docker, pero es necesario un proyecto de Angular primero.\
 En la raíz deben poner los tres archivos, es decir donde está la carpeta `src` y `node_modules`.
 
-I followed an example in another repository and wrapped the directory structure within a pair of triple backticks (```):
-
 ```
 tarea5-cloud
 │   README.md
